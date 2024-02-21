@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "main": "event_loop.js",
+  "type": "module", 
+  "//": "Se crea la nueva propiedad type, para usar import y export en JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

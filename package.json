@@ -1,25 +1,12 @@
 {
   "name": "cdmx36-products",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
-  "license": "UNLICENSED",
-  "private": true,
-  "dependencies": {
-    "@sap/cds": "^7",
-    "express": "^4",
-    "@sap/cds-hana": "^2"
-  },
-  "devDependencies": {
-    "@cap-js/sqlite": "^1",
-    "@sap/cds-dk": "^7"
-  },
+  "description": "Welcome to your new project.",
+  "main": "index.js",
   "scripts": {
-    "start": "cds-serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "cds": {
-    "requires": {
-      "db": "hana"
-    }
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

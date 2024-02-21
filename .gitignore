@@ -32,4 +32,8 @@ mta_archives/
 
 # @cap-js/cds-typer
 @cds-models
-Proyecto-node
+.vscode
+app
+public
+srv
+workspace*
